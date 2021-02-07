@@ -1,0 +1,6 @@
+.navWrapper {
+  display: flex;
+  background-color: #ff6600;
+  height: 22px;
+  padding: 4px;
+}

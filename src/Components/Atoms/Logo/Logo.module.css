@@ -1,0 +1,7 @@
+.logoWrapper {
+  display: flex;
+}
+
+.border {
+  border: 1px solid white;
+}

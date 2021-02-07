@@ -1,0 +1,9 @@
+.navigationWrapper {
+  display: flex;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Hacker News",
+  "navigation": [
+    {
+      "title": "new",
+      "route": "/newest"
+    },
+    {
+      "title": "past",
+      "route": "/newest"
+    },
+    {
+      "title": "comments",
+      "route": "/newest"
+    },
+    {
+      "title": "ask",
+      "route": "/newest"
+    },
+    {
+      "title": "show",
+      "route": "/newest"
+    },
+    {
+      "title": "jobs",
+      "route": "/newest"
+    },
+    {
+      "title": "submit",
+      "route": "/newest"
+    }
+  ],
+  "login": "Login"
+}
