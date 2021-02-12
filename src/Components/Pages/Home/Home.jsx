@@ -76,3 +76,21 @@ function Home() {
   );
 }
 export default Home;
+
+/**
+ * Sample Typescript conversions
+ * const [stories, setStories] = useState<Array<number>>([]);
+ * const [page, setPage] = useState<number>(0);
+ *
+ * interface IUserStories {
+ *  id: number,
+ *  story: string
+ * }
+ *
+ * const [stories, setStories] = useState<IUserStories[]>([]);
+ *
+ * useEffect(() => {
+ * axios.get<IUserStories[]>('https://hacker-news.firebaseio.com/v0/topstories.json').then(res => setStories(res))
+ * },[])
+ *
+ */
